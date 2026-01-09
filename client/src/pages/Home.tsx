@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import books from "@/lib/books";
-import BookCard from "@/components/BookCard";
 
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -15,7 +14,7 @@ export default function Home() {
   return (
     <div className="p-4">
 
-      {/* Zoekbalk met animatie */}
+      {/* Zoekbalk */}
       <input
         type="text"
         placeholder="Zoek op titel of auteur..."
@@ -27,8 +26,10 @@ export default function Home() {
       {/* Boekenlijst */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filteredBooks.map((book, index) => (
-          <div key={index} className="fade-in">
-            <BookCard book={book} className="book-card" />
+          <div key={index} className="book-card fade-in p-4 border rounded shadow-sm bg-white">
+            <h2 className="text-lg font-bold">{book.title}</h2>
+            <p className="text-sm text-gray-700">{book.author}</p>
+            <p className="text-xs text-gray-500">{book.category}</p>
           </div>
         ))}
       </div>
