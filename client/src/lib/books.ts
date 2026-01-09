@@ -256,3 +256,356 @@
     "category": "Mysterie"
   }
 ]
+,
+  {
+    "title": "Gewicht van water",
+    "author": "Sarah Crossan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Eindspel",
+    "author": "Evy Danckers",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Het dorp van de zwaluwen",
+    "author": "Marc De Bel",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Mette",
+    "author": "Marc De Bel",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Nelle, blankgoud",
+    "author": "Marc De Bel",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Nelle, de heks van Kruisem",
+    "author": "Marc De Bel",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Tsunami",
+    "author": "Nico De Braeckeleer",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Ziel",
+    "author": "Nico De Braeckeleer",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Lily",
+    "author": "Tom De Cock",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De cello van mevrouw Rozas",
+    "author": "Piet De Loof",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Spiegel",
+    "author": "Cara Delevingne",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "+broer",
+    "author": "Mario Demesmaeker",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Eilanden: de profetie",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "[gewoon] Anders",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "[gewoon] Gevoelig",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "[gewoon] Kwetsbaar",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "[gewoon] Leven",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "[gewoon] Mezelf",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "[gewoon] Verliefd",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "En ik dan?",
+    "author": "Luc Descamps",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Duivelskruid",
+    "author": "Marita De Sterck",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Zoethout",
+    "author": "Marita De Sterck",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Wish you were here",
+    "author": "Evelien De Vlieger",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Vals",
+    "author": "Mel Wallis De Vries",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Shock",
+    "author": "Mel Wallis De Vries",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Wreed",
+    "author": "Mel Wallis De Vries",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Klem",
+    "author": "Mel Wallis De Vries",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Schuld",
+    "author": "Mel Wallis De Vries",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Neem mijn hand",
+    "author": "Kate DiCamillo",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Clash",
+    "author": "Guy Didelez",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Molokai, de tocht van beeldschoon en lieveling",
+    "author": "Guy Didelez",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Omdat ik niet wou kussen",
+    "author": "Guy Didelez",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "(On)breekbaar",
+    "author": "Guy Didelez",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Raspoetin",
+    "author": "Guy Didelez",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Eeuwig zwijgen",
+    "author": "Guy Didelez",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Het lied van de vreemdeling",
+    "author": "Linda Dielemans",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Halve helden",
+    "author": "Karen Dierickx",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het beest met de kracht van tien paarden",
+    "author": "Lida Dijkstra",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Stiefzus: schoonheid is niet altijd mooi",
+    "author": "Jennifer Donnelly",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Wolfskinderen",
+    "author": "Paul Dowswell",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Als de sterren zingen",
+    "author": "Tonke Dragt",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "In mijn hoofd",
+    "author": "Sharon M. Draper",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Stukjes Hemelblauw",
+    "author": "Sue Durrant",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Met jou is het anders",
+    "author": "Hanne Eerdekens",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  }
