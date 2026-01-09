@@ -254,9 +254,7 @@
     "description": "",
     "link": "",
     "category": "Mysterie"
-  }
-]
-,
+  },
   {
     "title": "Gewicht van water",
     "author": "Sarah Crossan",
