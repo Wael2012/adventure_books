@@ -1,80 +1,258 @@
-export interface Book {
-  id: string;
-  title: string;
-  author: string;
-  summary: string;
-  year?: number;
-}
-
-export const books: Book[] = [
+[
   {
-    id: "broederband-spookgezichten",
-    title: "Broederband: De spookgezichten",
-    author: "John Flanagan",
-    summary: "Na een zware storm spoelen de Reigers aan op een onbekend eiland. Ze moeten een stam beschermen tegen de mysterieuze 'Spookgezichten'.",
-    year: 2016,
+    "title": "De onverklaarbare logica van mijn leven",
+    "author": "Benjamin Alire Saenz",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
   },
   {
-    id: "stormbreaker",
-    title: "Stormbreaker",
-    author: "Anthony Horowitz",
-    summary: "De 14-jarige Alex Rider wordt gerekruteerd door MI6 om na de dood van zijn oom een gevaarlijk complot te onderzoeken.",
-    year: 2000,
+    "title": "Het meisje dat door India fietste",
+    "author": "André Aletta",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
   },
   {
-    id: "helden-van-olympus",
-    title: "Helden van Olympus",
-    author: "Rick Riordan",
-    summary: "Een groep halfgoden, zowel Grieks als Romeins, moet samenwerken om de ontwakende oergodin Gaea te stoppen en de wereld te redden.",
-    year: 2010,
+    "title": "Vervloekt",
+    "author": "Josephine Angelini",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
   },
   {
-    id: "verloren-bloem-sjamaan",
-    title: "De verloren bloem van de sjamaan",
-    author: "Davide Morosinotto",
-    summary: "Laila, de dochter van een Finse diplomaat in Peru, gaat op zoek naar een legendarische geneeskrachtige bloem in het Amazonegebied om haar eigen ziekte te genezen.",
-    year: 2020,
+    "title": "Het hart van de adelaar",
+    "author": "Emmelie Arents",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
   },
   {
-    id: "twaalf-bevroren-bos",
-    title: "Twaalf en het bevroren bos",
-    author: "Aisling Fowler",
-    summary: "Twaalf, een leerling-jager, begint aan een gevaarlijke zoektocht om een ontvoerd meisje uit haar fort te redden.",
-    year: 2021,
+    "title": "Het geheugenboek",
+    "author": "Lara Avery",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
   },
   {
-    id: "vluchteling",
-    title: "Vluchteling",
-    author: "Alan Gratz",
-    summary: "Drie verhalen van kinderen (Josef in het Duitsland van de jaren '30, Isabel in Cuba in de jaren '90 en Mahmoud in Syrië in 2015) die vluchten voor gevaar en op zoek zijn naar veiligheid.",
-    year: 2016,
+    "title": "Condor",
+    "author": "Walter Baele & Erwin Claes",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
   },
   {
-    id: "haaieneiland",
-    title: "Haaieneiland",
-    author: "Rob Ruggenberg",
-    summary: "Roemer belandt tijdens een 18e-eeuwse expeditie op een gevaarlijk eiland in de Stille Zuidzee, vol haaien en vijandige bewoners.",
-    year: 2014,
+    "title": "Huis zonder einde",
+    "author": "Daniëlle Bakhuis",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
   },
   {
-    id: "skandar-eenhoorndief",
-    title: "Skandar en de eenhoorndief",
-    author: "A.F. Steadman",
-    summary: "Skandar droomt ervan een eenhoornrijder te worden, maar eenhoorns zijn gevaarlijke wezens. Hij moet het eiland redden van een duistere vijand.",
-    year: 2022,
+    "title": "The Iron Sisters",
+    "author": "Tracy Banghart",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
   },
   {
-    id: "verloren-galjoen",
-    title: "Het verloren galjoen",
-    author: "Johan Vandevelde",
-    summary: "Lissanda, een weesmeisje met toverkrachten, en Valdemar, een cadet met geheugenverlies, werken samen tijdens een oorlog tussen twee naties.",
-    year: 2012,
+    "title": "De zomer dat we Parijs bestormden",
+    "author": "Clémentine Beauvais",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
   },
   {
-    id: "lampje",
-    title: "Lampje",
-    author: "Annet Schaap",
-    summary: "Lampje, de dochter van een vuurtorenwachter, veroorzaakt per ongeluk een schipbreuk en beleeft daarna avonturen in een mysterieus huis.",
-    year: 2016,
+    "title": "De helletorens",
+    "author": "Hannelore Bedert",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
   },
-];
+  {
+    "title": "Eén mens is genoeg",
+    "author": "Els Beerten",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Ik ken jouw geheim",
+    "author": "Daphne Benedis-Grab",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Op zoek naar Paulie Fink",
+    "author": "Ali Benjamin",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Suzy en de kwallen",
+    "author": "Ali Benjamin & Terry Fan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De geschiedenis van Jane Doe",
+    "author": "Michael Belanger",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Onderbuik",
+    "author": "Tine Bergen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Vermoord het verleden",
+    "author": "Jonas Boets",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Buitenspel",
+    "author": "Jonas Boets",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Geboren om te scoren",
+    "author": "Jonas Boets",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Liever de leugen",
+    "author": "Jonas Boets",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Vogelkinderen",
+    "author": "Mark Boode",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Dit is hoe het ging",
+    "author": "Astrid Boonstoppel",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De jongen op de berg",
+    "author": "John Boyne",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Mijn broer heet Jessica",
+    "author": "John Boyne",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Blauw is bitter",
+    "author": "Dirk Bracke",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Black",
+    "author": "Dirk Bracke",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Dit is best wel een episch liefdesverhaal",
+    "author": "Karen Callender",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Blauwe dagen",
+    "author": "Caja Cazemier",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Geen saldo",
+    "author": "Caja Cazemier",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Like me!",
+    "author": "Caja Cazemier",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De school van goed en kwaad",
+    "author": "Soman Chainani",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Het monster met de groene ogen",
+    "author": "Jo Claes",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  }
+]
