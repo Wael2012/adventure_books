@@ -606,4 +606,1303 @@
     "description": "",
     "link": "",
     "category": "Drama"
-  }
+  },
+  {
+    "title": "Mistland",
+    "author": "Ludo Enckels",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Jongen zonder naam",
+    "author": "Betty Elias",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "10 truths en een dare",
+    "author": "Ashley Elston",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De waarschijnlijkheid van alles",
+    "author": "Sarah Everett",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Romeo & Julia",
+    "author": "Tiny Fisscher (bewerker)",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De woordsmid",
+    "author": "Patricia Forde",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Twaalf en het bevroren bos",
+    "author": "Aisling Fowler",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Broederband - De spookgezichten",
+    "author": "John Flanagan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "De grijze jager - De wolven van Arazan",
+    "author": "John Flanagan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "De wereld achter het hek",
+    "author": "Zana Fraillon",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het net",
+    "author": "Frank Geleyn",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Naar de top",
+    "author": "Dan Gemeinhart",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Enkele reis Brugge",
+    "author": "Hilde E. Gerard",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Koekoeksjong",
+    "author": "Hilde E. Gerard",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De maan-zaak",
+    "author": "Stuart Gibbs",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Vluchteling",
+    "author": "Alan Gratz",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Schildpadden tot in het oneindige",
+    "author": "John Green",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Een weeffout in onze sterren",
+    "author": "John Green",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het wonderbaarlijke voorval met de hond in de nacht",
+    "author": "Mark Haddon",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Ik zal op je wachten",
+    "author": "Luc Hanegreefs",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Vreemdeling",
+    "author": "Luc Hanegreefs",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Volle maen",
+    "author": "Luc Hanegreefs",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Schaduwbroer",
+    "author": "Iris Hannema",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Stormbreaker",
+    "author": "Anthony Horowitz",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Zeevonk",
+    "author": "Wendy Huyghe",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Daar waar werelden botsen",
+    "author": "Danielle Jawando",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Een lied dat alleen ik kan horen",
+    "author": "Barry Jonsberg",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Atalante",
+    "author": "Barbara Jurgens",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Dit mag niemand weten",
+    "author": "Martine Kamphuis",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Brieven aan de duisternis",
+    "author": "Brigid Kemmerer",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Darius de Grote",
+    "author": "Adib Khorram",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Elektrische vissen",
+    "author": "Susan Kreller",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Bloedgevaar",
+    "author": "Kate Kriske",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Het offer van de Baobab",
+    "author": "Kate Kriske",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Opstand",
+    "author": "Agave Kruijssen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Bizar",
+    "author": "Sjoerd Kuyper",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Body Switch",
+    "author": "Patrick Lagrou",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Wij blijven bij elkaar",
+    "author": "Martine Letterie",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Voor altijd: Romeo en Julia",
+    "author": "Pepijn Lievens",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Hele verhalen voor een halve soldaat",
+    "author": "Benny Lindelauf",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Een verre plek vlakbij",
+    "author": "Hayley Long",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Als vuur",
+    "author": "Sara Lövestam",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Charlie en ik",
+    "author": "Mark Lowery",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Een bijna eindeloze afstand",
+    "author": "Tahereh Mafi",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De ramp van Tsjernobyl",
+    "author": "Andy Marino",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Niemandsjongen",
+    "author": "Katherine Marsh",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Geloof me",
+    "author": "Sophie McKenzie",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Vermist",
+    "author": "Sophie McKenzie",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Jacht",
+    "author": "Cis Meijer",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Blackmail",
+    "author": "Cis Meijer",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Alter ego",
+    "author": "Marissa Meyer",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Niemand houdt van November",
+    "author": "Antonia Michaelis",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Koning van het Sintelwoud",
+    "author": "Jen Minkman",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Paultje, echt geen jongen",
+    "author": "Brigitte Minne & Joris Thys",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De rommelzolder van Wal",
+    "author": "Brigitte Minne",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Tegenwoordig heet iedereen Sorry",
+    "author": "Bart Moeyaert",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Duet met valse noten",
+    "author": "Bart Moeyaert",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De raven",
+    "author": "Kass Morgan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "De verloren bloem van de sjamaan",
+    "author": "Davide Morosinotto",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Twee fonkelrode sterren in de blinkend witte sneeuw",
+    "author": "Davide Morosinotto",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "De zoon van de zee",
+    "author": "Davide Morosinotto",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Project Z",
+    "author": "Marloes Morshuis",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "De schaduwen van Radovar",
+    "author": "Marloes Morshuis",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Bestemming onbekend",
+    "author": "Paul Mosier",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Boy 7",
+    "author": "Mirjam Mous",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Girl 6",
+    "author": "Mirjam Mous",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "2C",
+    "author": "Mirjam Mous",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Paard paard, tijger tijger",
+    "author": "Mette Eike Neerlin",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Alles wat licht is",
+    "author": "Marleen Nelen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Als de wereld wankelt",
+    "author": "Jandy Nelson",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Als je dit leest, ben ik dood",
+    "author": "Sally Nicholls",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Adres onbekend",
+    "author": "Susin Nielsen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Woordnerd",
+    "author": "Susin Nielsen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het ongemakkelijke dagboek van Henry K. Larsen",
+    "author": "Susin Nielsen e.a.",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Zilvergaren",
+    "author": "Naomi Novik",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Om nooit te vergeten",
+    "author": "Thomas Olde Heuvelt",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Hoe overleef ik met/zonder gescheiden ouders?",
+    "author": "Francine Oomen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Hoe overleef ik mijn vader? (en hij mij!)",
+    "author": "Francine Oomen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Cinder & Ella",
+    "author": "Kelly Oram",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Romantiek"
+  },
+  {
+    "title": "Voorbestemd",
+    "author": "Alice Oseman",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Puin",
+    "author": "Beatrijs Peeters",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Vlucht naar de hemel",
+    "author": "Berti Persoons",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Oorlog in een koffer",
+    "author": "Berti Persoons",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "De zoon van de berentemmer",
+    "author": "Xavier-Laurent Petit",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Het dodenhuis",
+    "author": "Sarah Pinborough",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "13 minuten",
+    "author": "Sarah Pinborough",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Heartstream",
+    "author": "Tom Pollock",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Tussen de beesten en wilderozen",
+    "author": "Ashton Poston",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Erebos ontwaakt",
+    "author": "Ursula Poznanski",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Vallen",
+    "author": "Anne Provoost",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het boek van stof: La Belle Sauvage",
+    "author": "Philip Pullman",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Kapot",
+    "author": "Louisa Raid",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Omgeruild",
+    "author": "Fiona Rempt",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Let goed op: een verhaal in 10 stappen",
+    "author": "Jason Reynolds",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het omgekeerde van altijd",
+    "author": "Justin Reynolds",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het pad van de roverkoning",
+    "author": "Tom Rijpert",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Het verdoemde zwaard",
+    "author": "Rick Riordan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Helden van Olympus",
+    "author": "Rick Riordan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "De poppenmaker van Krakau",
+    "author": "R.M. Romero",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Blauwtje",
+    "author": "Lydia Rood",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Hoe ik nu leef",
+    "author": "Meg Rosoff",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De terugkeer van de koningin",
+    "author": "Rebecca Ross",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Offerkind",
+    "author": "Rob Ruggenberg",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Historisch"
+  },
+  {
+    "title": "Haaieneiland",
+    "author": "Rob Ruggenberg",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Eilanddagen",
+    "author": "Gideon Samson",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Dit is geen dagboek",
+    "author": "Erna Sassen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Lampje",
+    "author": "Annet Schaap",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "De leeuwendochter",
+    "author": "R.H. Schoemans",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Stad vol geesten",
+    "author": "V.E. Schwab",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Ash Princess",
+    "author": "Laura Sebastian",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "De Wonderlingen",
+    "author": "Brian Selznick",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "De geur van groen",
+    "author": "Pamela Sharon",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Koud als sneeuw",
+    "author": "Gena Showalter",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Zeis",
+    "author": "Neal Shusterman",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Dor",
+    "author": "Neal & Jarrod Shusterman",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Fake",
+    "author": "Carry Slee",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Laatste vlog",
+    "author": "Carry Slee",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Noorderlicht",
+    "author": "Carry Slee",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Als je terugkomt",
+    "author": "Rebecca Stead",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Skandar en de eenhoorndief",
+    "author": "A.F. Steadman",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Ik moet dit doen",
+    "author": "Maren Stoffels",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Nog 27 dagen leven",
+    "author": "Maren Stoffels",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Wat zou Justyce doen?",
+    "author": "Nic Stone",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Geen beste dag voor voodoo",
+    "author": "Jeff Strand",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Pestbloemen",
+    "author": "Mats Strandberg",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "De zusjes uit het Verzonken Moeras",
+    "author": "Lucy Strange",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Koorddansen",
+    "author": "Wendy Stroobant",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het duizend geheimen complot",
+    "author": "Janet Sumner Johnson",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Maar ik ben jou niet",
+    "author": "Nadine Swagerman",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Verhalen uit de binnenstad",
+    "author": "Shaun Tan",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Match",
+    "author": "Buddy Tegenbosch",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Gewist",
+    "author": "Teri Terry",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Gegijzeld",
+    "author": "Chinouk Thijssen",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Niet te stoppen",
+    "author": "Angie Thomas",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Uit de lucht geplukt",
+    "author": "Mark Tijsmans",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "De knaap, de knecht, de meid, de moord",
+    "author": "Mark Tijsmans",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Maresi",
+    "author": "Maria Turtschaninoff",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Nete",
+    "author": "Lyne Uytterhoeven",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Hallo nu",
+    "author": "Jenny Valentine",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Het sleutelbeengebaar",
+    "author": "Hilde Van Cauteren",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Dansen in diep water",
+    "author": "Laure Van den Broeck",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Team Mortis",
+    "author": "Bjorn Van den Eynde",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "De beschermengel",
+    "author": "Bjorn Van den Eynde",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Stille waters",
+    "author": "Bjorn Van den Eynde",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Apollo",
+    "author": "Johan Vandevelde",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Nachtwild",
+    "author": "Johan Vandevelde",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Thriller"
+  },
+  {
+    "title": "Het verloren galjoen",
+    "author": "Johan Vandevelde",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Huilen naar de maan",
+    "author": "Gerda Van Erkel",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Hvj",
+    "author": "Lysette Van Geel",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Verdronken",
+    "author": "Gerard Van Gemert",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Mysterie"
+  },
+  {
+    "title": "Voorbij de sterren",
+    "author": "Eline Vantilt",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "De omzwervingen van boek",
+    "author": "Melanie van de Peut",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Avontuur"
+  },
+  {
+    "title": "Leugenaar leugenaar",
+    "author": "Herman Van de Wijdeven",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Julia en mijn broer en ik",
+    "author": "Herman Van de Wijdeven",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Noorderlicht",
+    "author": "Anna Van Praag",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Zoeken naar Esther B. en het voorval met Benito",
+    "author": "Do Van Ranst",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Mijn vader zegt dat wij levens redden",
+    "author": "Do Van Ranst",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Dagboek van een chihuahua",
+    "author": "Do Van Ranst",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Humor"
+  },
+  {
+    "title": "Supernova",
+    "author": "Do Van Ranst",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Sciencefiction"
+  },
+  {
+    "title": "Moeders zijn gevaarlijk met messen",
+    "author": "Do Van Ranst",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De foto waar ik niet op sta",
+    "author": "Do Van Ranst",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "Heerestraat en Rozenlaan",
+    "author": "Carlie Van Tongeren",
+    "year": "",
+    "description": "",
+    "link": "",
+    "category": "Drama"
+  },
+  {
+    "title": "De jongen die van de wereld hield",
+    "author": "Tjibbe Veld
