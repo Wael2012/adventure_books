@@ -11,6 +11,13 @@ import { BookOpen, MapPin } from "lucide-react";
  * - Premium, refined aesthetic celebrating adventure literature
  */
 export default function Home() {
+  // Group books by category
+  const categories = Array.from(new Set(books.map((book) => book.category)));
+  const booksByCategory = categories.map((category) => ({
+    category,
+    books: books.filter((book) => book.category === category),
+  }));
+
   return (
     <div className="min-h-screen bg-background text-foreground">
       {/* Hero Section */}
@@ -56,55 +63,64 @@ export default function Home() {
             </h2>
             <div className="w-24 h-1 bg-accent mx-auto mb-6"></div>
             <p className="text-lg text-foreground/80 max-w-2xl mx-auto">
-              {books.length} avontuurlijke boeken, zorgvuldig geselecteerd voor jongeren die van spanning en ontsnapping houden
+              {books.length} boeken, ingedeeld in {categories.length} categorieën
             </p>
           </div>
 
-          {/* Books Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {books.map((book) => (
-              <Card
-                key={book.id}
-                className="bg-card border-border hover:border-accent transition-all duration-300 hover:shadow-2xl hover:shadow-accent/20 group overflow-hidden"
-              >
-                <CardHeader className="pb-3">
-                  <div className="flex items-start justify-between mb-2">
-                    <BookOpen className="w-5 h-5 text-accent group-hover:scale-110 transition-transform" />
-                    {book.year && (
-                      <span className="text-xs text-muted-foreground bg-muted px-2 py-1 rounded">
-                        {book.year}
-                      </span>
-                    )}
-                  </div>
-                  <CardTitle className="text-xl text-foreground group-hover:text-accent transition-colors">
-                    {book.title}
-                  </CardTitle>
-                  <CardDescription className="text-accent font-semibold">
-                    {book.author}
-                  </CardDescription>
-                </CardHeader>
-                <CardContent className="space-y-4">
-                  <p className="text-foreground/80 leading-relaxed text-sm">
-                    {book.summary}
-                  </p>
-                  <Button
-                    asChild
-                    className="w-full bg-accent hover:bg-accent/90 text-accent-foreground group-hover:shadow-lg transition-all"
+          {/* Categories */}
+          {booksByCategory.map((section) => (
+            <div key={section.category} className="mb-16">
+              <h3 className="text-3xl font-bold text-accent mb-8 pb-4 border-b border-accent/30">
+                {section.category}
+              </h3>
+
+              {/* Books Grid */}
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+                {section.books.map((book) => (
+                  <Card
+                    key={book.id}
+                    className="bg-card border-border hover:border-accent transition-all duration-300 hover:shadow-2xl hover:shadow-accent/20 group overflow-hidden"
                   >
-                    <a
-                      href="https://bibliotheek.be/mijn-bibliotheek"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center justify-center gap-2"
-                    >
-                      <MapPin className="w-4 h-4" />
-                      Vind in Bibliotheek
-                    </a>
-                  </Button>
-                </CardContent>
-              </Card>
-            ))}
-          </div>
+                    <CardHeader className="pb-3">
+                      <div className="flex items-start justify-between mb-2">
+                        <BookOpen className="w-5 h-5 text-accent group-hover:scale-110 transition-transform" />
+                        {book.year && (
+                          <span className="text-xs text-muted-foreground bg-muted px-2 py-1 rounded">
+                            {book.year}
+                          </span>
+                        )}
+                      </div>
+                      <CardTitle className="text-xl text-foreground group-hover:text-accent transition-colors">
+                        {book.title}
+                      </CardTitle>
+                      <CardDescription className="text-accent font-semibold">
+                        {book.author}
+                      </CardDescription>
+                    </CardHeader>
+                    <CardContent className="space-y-4">
+                      <p className="text-foreground/80 leading-relaxed text-sm">
+                        {book.summary}
+                      </p>
+                      <Button
+                        asChild
+                        className="w-full bg-accent hover:bg-accent/90 text-accent-foreground group-hover:shadow-lg transition-all"
+                      >
+                        <a
+                          href="https://bibliotheek.be/mijn-bibliotheek"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex items-center justify-center gap-2"
+                        >
+                          <MapPin className="w-4 h-4" />
+                          Vind in Bibliotheek
+                        </a>
+                      </Button>
+                    </CardContent>
+                  </Card>
+                ))}
+              </div>
+            </div>
+          ))}
         </div>
       </section>
 
